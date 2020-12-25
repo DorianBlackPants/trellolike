@@ -1,8 +1,8 @@
 # trellolike
 Final
-## Trello-like task board.
+## Trello-like task board
 
-Registration, login, logout. 
+Registration, login, logout
 
 Roles - user, admin
 
